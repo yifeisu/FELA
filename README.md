@@ -1,2 +1,27 @@
-# FELA
-FELA: Learning Fine-Grained Alignment for Aerial Vision-Dialog Navigation, AAAI 25.
+<h2 align="center">Learning Fine-Grained Alignment for Aerial Vision-Dialog Navigation</h2>
+
+<center>Yifei Su, Dong An, Kehan Chen, Weichen Yu, Baiyang Ning, Yonggen Ling, Yan Huang, Liang Wang
+</center>
+<h5 align="center">Accepted to AAAI2025 </h5>
+
+![image-20241218102938742](C:/Users/11368/AppData/Roaming/Typora/typora-user-images/image-20241218102938742.png)
+
+
+
+### Code coming soon.
+
+
+
+### Citation
+
+If you find this code useful for your research, please use the following BibTeX entry.
+
+```bibtex
+@article{Su2025FELA,
+          title={Learning Fine-Grained Alignment for Aerial Vision-Dialog Navigation},
+          author={Su, Yifei and An, Dong and Chen, Kehan and Yu, Weichen and Ning, Baiyang and Ling, Yonggen and Huang, Yan and Wang, Liang},
+          journal={arxiv preprint},
+          year={2024},
+      }
+```
+
