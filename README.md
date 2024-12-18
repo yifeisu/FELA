@@ -4,7 +4,7 @@
 </center>
 <h5 align="center">Accepted to AAAI2025 </h5>
 
-![image-20241218102938742](C:/Users/11368/AppData/Roaming/Typora/typora-user-images/image-20241218102938742.png)
+<img src="assert/overview.png" alt="overview" style="zoom: 80%;" />
 
 
 
