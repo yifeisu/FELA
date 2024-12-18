@@ -1,7 +1,7 @@
 <h2 align="center">Learning Fine-Grained Alignment for Aerial Vision-Dialog Navigation</h2>
 
-<center>Yifei Su, Dong An, Kehan Chen, Weichen Yu, Baiyang Ning, Yonggen Ling, Yan Huang, Liang Wang
-</center>
+<p align="center">Yifei Su, Dong An, Kehan Chen, Weichen Yu, Baiyang Ning, Yonggen Ling, Yan Huang, Liang Wang</p>
+
 <h5 align="center">Accepted to AAAI2025 </h5>
 
 <img src="assert/overview.png" alt="overview" style="zoom: 80%;" />
